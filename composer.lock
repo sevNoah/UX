@@ -4,6 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "5f503940caebb2a0c38377da8cbfdd67",
     "packages": [],
     "packages-dev": [
@@ -19,6 +20,22 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/FakerPHP/Faker/zipball/e0ee18eb1e6dc3cda3ce9fd97e5a0689a88a64b5",
                 "reference": "e0ee18eb1e6dc3cda3ce9fd97e5a0689a88a64b5",
+=======
+    "content-hash": "3fb5a307183627a23aeed132a1bec5e1",
+    "packages": [
+        {
+            "name": "fakerphp/faker",
+            "version": "v1.23.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/FakerPHP/Faker.git",
+                "reference": "bfb4fe148adbf78eff521199619b93a52ae3554b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/FakerPHP/Faker/zipball/bfb4fe148adbf78eff521199619b93a52ae3554b",
+                "reference": "bfb4fe148adbf78eff521199619b93a52ae3554b",
+>>>>>>> 3ee07e6e2efa1dd9c22f6f3a8a8cfddc86fbbb17
                 "shasum": ""
             },
             "require": {
@@ -66,9 +83,15 @@
             ],
             "support": {
                 "issues": "https://github.com/FakerPHP/Faker/issues",
+<<<<<<< HEAD
                 "source": "https://github.com/FakerPHP/Faker/tree/v1.24.1"
             },
             "time": "2024-11-21T13:46:39+00:00"
+=======
+                "source": "https://github.com/FakerPHP/Faker/tree/v1.23.1"
+            },
+            "time": "2024-01-02T13:46:09+00:00"
+>>>>>>> 3ee07e6e2efa1dd9c22f6f3a8a8cfddc86fbbb17
         },
         {
             "name": "psr/container",
@@ -125,6 +148,7 @@
         },
         {
             "name": "symfony/deprecation-contracts",
+<<<<<<< HEAD
             "version": "v3.5.1",
             "source": {
                 "type": "git",
@@ -135,6 +159,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/deprecation-contracts/zipball/74c71c939a79f7d5bf3c1ce9f5ea37ba0114c6f6",
                 "reference": "74c71c939a79f7d5bf3c1ce9f5ea37ba0114c6f6",
+=======
+            "version": "v3.5.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/deprecation-contracts.git",
+                "reference": "0e0d29ce1f20deffb4ab1b016a7257c4f1e789a1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/deprecation-contracts/zipball/0e0d29ce1f20deffb4ab1b016a7257c4f1e789a1",
+                "reference": "0e0d29ce1f20deffb4ab1b016a7257c4f1e789a1",
+>>>>>>> 3ee07e6e2efa1dd9c22f6f3a8a8cfddc86fbbb17
                 "shasum": ""
             },
             "require": {
@@ -172,7 +208,11 @@
             "description": "A generic function and convention to trigger deprecation notices",
             "homepage": "https://symfony.com",
             "support": {
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/deprecation-contracts/tree/v3.5.1"
+=======
+                "source": "https://github.com/symfony/deprecation-contracts/tree/v3.5.0"
+>>>>>>> 3ee07e6e2efa1dd9c22f6f3a8a8cfddc86fbbb17
             },
             "funding": [
                 {
@@ -188,9 +228,16 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2024-09-25T14:20:29+00:00"
         }
     ],
+=======
+            "time": "2024-04-18T09:32:20+00:00"
+        }
+    ],
+    "packages-dev": [],
+>>>>>>> 3ee07e6e2efa1dd9c22f6f3a8a8cfddc86fbbb17
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": [],

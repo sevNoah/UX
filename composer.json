@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "name": "sever/ux",
     "authors": [
@@ -10,3 +11,10 @@
         "fakerphp/faker": "^1.24"
     }
 }
+=======
+{
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
+}
+>>>>>>> 3ee07e6e2efa1dd9c22f6f3a8a8cfddc86fbbb17
