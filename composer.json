@@ -1,0 +1,12 @@
+{
+    "name": "sever/ux",
+    "authors": [
+        {
+            "name": "Ti bolom",
+            "email": "noah.severin@ynov.com"
+        }
+    ],
+    "require-dev": {
+        "fakerphp/faker": "^1.24"
+    }
+}
